@@ -1,0 +1,28 @@
+body {
+  background-image: url(/img/du.jpg);
+}
+
+th {
+  color: rgb(45, 59, 59);
+  background-color: bisque;
+  text-transform: uppercase;
+  padding: 20px;
+  text-align: center;
+  opacity: 70%;
+}
+td {
+  background-color: aquamarine;
+  font-size: 20px;
+  padding: 10px;
+  opacity: 70%;
+}
+h1 {
+  /* display: none; */
+  visibility: hidden;
+}
+h2 {
+  display: none;
+}
+h3 {
+  opacity: 60%;
+}
